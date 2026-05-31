@@ -1,7 +1,7 @@
 {
   "name": "metamask-smart-accounts-workshop",
   "version": "1.0.0",
-  "description": "MetaMask Smart Accounts Kit Workshop - Build to Win the Hackathon",
+  "description": "MetaMask Smart Accounts Kit Workshop",
   "type": "module",
   "scripts": {
     "start": "tsx src/index.ts",
